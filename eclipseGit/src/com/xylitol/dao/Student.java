@@ -11,7 +11,7 @@ public class Student {
 	
 	
 	public int getId() {
-		return id;
+		return id+10;
 	}
 	public void setId(int id) {
 		this.id = id;
